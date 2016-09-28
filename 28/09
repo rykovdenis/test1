@@ -1,0 +1,44 @@
+  <html>
+  <head>
+  <meta charset="utf-8">
+  <title>test1</title>
+  </head>
+  <body>
+<h1>2.Уравнения</h1>
+<style>
+ p {
+        font-style: italic;
+}
+</style>
+  <p>1. x<sup><i>2</i></sup> +
+    2x + 1 = 0 </p>
+<p>2.(x+1)<sup><i>x</i></sup>=
+(x-1)<sup><i>2x</i></sup>
+<p>3.sin<sup><i>2</i></sup>=
+cos(&pi;-x)
+<h1>2.Таблицы</h1>
+<h2>2.1структура</h2>
+ <table border="1" cellpadding="4" cellspacing="0">
+   <tr>
+    <td></td>
+    <th colspan="2">колонки</th>
+    
+   </tr>
+   <tr>
+    <th rowspan="2">строки</th>
+<td> ячейка A</td>
+    <td>ячейка B</td>
+   </tr>
+   <tr>
+    <td>ячейка С</td>
+    <td>ячейка D</td>
+   </tr>
+  </table>
+<th1>colspan="2";
+ <style>{
+    background: red
+   }
+</style>
+красный</th1>
+<td>
+
